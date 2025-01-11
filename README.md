@@ -64,7 +64,7 @@
   </a>
   <a href="https://instagram.com/ayush_dhakre" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    <a href="https://www.hackerrank.com/ayushdhakre8" target="_blank">
+    <a href="https://www.hackerrank.com/profile/ayushdhakre8" target="_blank">
   <img align="center" src="h ttps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
     

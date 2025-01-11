@@ -12,19 +12,8 @@ Welcome to my GitHub! I'm an enthusiastic **Full Stack Java Developer** passiona
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:**  
-`Java` `JavaScript` `Python` `SQL`
-
-**Frameworks and Libraries:**  
-`Spring Boot` `Hibernate` `React.js` `Bootstrap`
-
-**Databases:**  
-`MySQL` `PostgreSQL` `MongoDB`
-
-**Tools & Platforms:**  
-`Git` `Maven` `Docker` `IntelliJ IDEA`
+💻 Technologies & Tools
+Angular Apache Cordova Bootstrap C++ CSS3 Git Java JavaScript MongoDB MySQL React React Native Spring
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi there, I'm [Ayush Dhakre]! 👋
+# Hi there, I'm Ayush Dhakre! 👋
 
 Welcome to my GitHub! I'm an enthusiastic **Full Stack Java Developer** passionate about building scalable applications and exploring new technologies.
 
@@ -57,7 +57,7 @@ Check out all my repositories [here](https://github.com/yourusername?tab=reposit
 ## 🤝 Let's Connect!
 
 - 🌐 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 💼 [LinkedIn](www.linkedin.com/in/ayush-dhakre)
 - 📧 Email: ayushdhakre8@gmail.com  
 
 Feel free to reach out for collaborations or just a friendly chat! 😊

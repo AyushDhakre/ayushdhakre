@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayush Dhakre</h1>
-<h3 align="center">I'm an enthusiastic **Full Stack Java Developer** passionate about building scalable applications and exploring new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdhakre&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdhakre" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

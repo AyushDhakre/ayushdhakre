@@ -62,10 +62,10 @@
   <a href="https://www.linkedin.com/in/ayush-dhakre/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sham_chiwade_5" target="_blank">
+  <a href="https://instagram.com/ayush_dhakre" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    <a href="https://www.hackerrank.com/chiwadesahm3742" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <a href="https://www.hackerrank.com/ayushdhakre8" target="_blank">
+  <img align="center" src="h ttps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
     
 
@@ -75,8 +75,8 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamchiwade&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushdhakre&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shamchiwade&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushdhakre&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>

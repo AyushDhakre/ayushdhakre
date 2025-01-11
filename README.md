@@ -57,7 +57,7 @@ Check out all my repositories [here](https://github.com/yourusername?tab=reposit
 ## 🤝 Let's Connect!
 
 - 🌐 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn](www.linkedin.com/in/ayush-dhakre)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-dhakre/)
 - 📧 Email: ayushdhakre8@gmail.com  
 
 Feel free to reach out for collaborations or just a friendly chat! 😊
